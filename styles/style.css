@@ -94,16 +94,17 @@
 
 .aligned-text {
     display: flex;
-    margin-top: 20px;
     margin-right: -0.3em;
 }
 
 .aligned-text_center {
     justify-content: center;
+    margin-top: 20px;
 }
 
 .aligned-text_right {
     justify-content: flex-end;
+    margin-top: 20px;
 }
 
 .decription {
