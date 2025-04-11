@@ -14,7 +14,7 @@
 
 .header__menu {
     align-self: center;
-    justify-self: stretch;
+    justify-self: start;
 }
 
 .header__links-list {
@@ -30,6 +30,7 @@
 
 .header__links-item_no-bullet {
     list-style: none;
+    padding-left: 0px;
 }
 
 .header__links-link {
