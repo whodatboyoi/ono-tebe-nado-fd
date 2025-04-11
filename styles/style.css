@@ -25,6 +25,7 @@
 
 .header__links-item {
     list-style: circle;
+    padding-left: 3px;
 }
 
 .header__links-item_no-bullet {
